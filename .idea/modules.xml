@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/boplus.iml" filepath="$PROJECT_DIR$/.idea/boplus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boplus-common/boplus-common.iml" filepath="$PROJECT_DIR$/boplus-common/boplus-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boplus-generator/boplus-generator.iml" filepath="$PROJECT_DIR$/boplus-generator/boplus-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boplus-logging/boplus-logging.iml" filepath="$PROJECT_DIR$/boplus-logging/boplus-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boplus-mp/boplus-mp.iml" filepath="$PROJECT_DIR$/boplus-mp/boplus-mp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boplus-mproot/boplus-mproot.iml" filepath="$PROJECT_DIR$/boplus-mproot/boplus-mproot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boplus-shop/boplus-shop.iml" filepath="$PROJECT_DIR$/boplus-shop/boplus-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boplus-system/boplus-system.iml" filepath="$PROJECT_DIR$/boplus-system/boplus-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boplus-tools/boplus-tools.iml" filepath="$PROJECT_DIR$/boplus-tools/boplus-tools.iml" />
+    </modules>
+  </component>
+</project>

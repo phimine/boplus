@@ -1,0 +1,10 @@
+com/boplus/logging/rest/LogController.class
+com/boplus/logging/domain/Log.class
+com/boplus/logging/service/LogService.class
+com/boplus/logging/aop/log/Log.class
+com/boplus/logging/service/dto/LogQueryCriteria.class
+com/boplus/logging/service/impl/LogServiceImpl.class
+com/boplus/logging/aspect/LogAspect.class
+com/boplus/logging/service/dto/LogErrorDTO.class
+com/boplus/logging/service/dto/LogSmallDTO.class
+com/boplus/logging/service/mapper/LogMapper.class

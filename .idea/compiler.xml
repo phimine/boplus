@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="boplus-tools" />
+        <module name="boplus-common" />
+        <module name="boplus-generator" />
+        <module name="boplus-shop" />
+        <module name="boplus-mproot" />
+        <module name="boplus-logging" />
+        <module name="boplus-mp" />
+        <module name="boplus-system" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boplus" target="1.8" />
+      <module name="boplus-common" target="1.8" />
+      <module name="boplus-generator" target="1.8" />
+      <module name="boplus-logging" target="1.8" />
+      <module name="boplus-mp" target="1.8" />
+      <module name="boplus-mproot" target="1.8" />
+      <module name="boplus-shop" target="1.8" />
+      <module name="boplus-system" target="1.8" />
+      <module name="boplus-tools" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="boplus-common" options="-parameters" />
+      <module name="boplus-generator" options="-parameters" />
+      <module name="boplus-logging" options="-parameters" />
+      <module name="boplus-mp" options="-parameters" />
+      <module name="boplus-mproot" options="-parameters" />
+      <module name="boplus-shop" options="-parameters" />
+      <module name="boplus-system" options="-parameters" />
+      <module name="boplus-tools" options="-parameters" />
+    </option>
+  </component>
+</project>

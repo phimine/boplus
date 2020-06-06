@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.boplus.config.MetaHandler,\
+    com.boplus.config.MybatisConfig

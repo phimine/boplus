@@ -1,0 +1,14 @@
+/Users/c5281434/Documents/Project/boplus/boplus-generator/src/main/java/com/boplus/gen/domain/ColumnConfig.java
+/Users/c5281434/Documents/Project/boplus/boplus-generator/src/main/java/com/boplus/gen/service/mapper/GenConfigMapper.java
+/Users/c5281434/Documents/Project/boplus/boplus-generator/src/main/java/com/boplus/gen/rest/GenConfigController.java
+/Users/c5281434/Documents/Project/boplus/boplus-generator/src/main/java/com/boplus/gen/domain/GenConfig.java
+/Users/c5281434/Documents/Project/boplus/boplus-generator/src/main/java/com/boplus/gen/service/GenConfigService.java
+/Users/c5281434/Documents/Project/boplus/boplus-generator/src/main/java/com/boplus/gen/domain/vo/TableInfo.java
+/Users/c5281434/Documents/Project/boplus/boplus-generator/src/main/java/com/boplus/gen/service/impl/GenConfigServiceImpl.java
+/Users/c5281434/Documents/Project/boplus/boplus-generator/src/main/java/com/boplus/gen/service/GeneratorService.java
+/Users/c5281434/Documents/Project/boplus/boplus-generator/src/main/java/com/boplus/gen/utils/ColUtil.java
+/Users/c5281434/Documents/Project/boplus/boplus-generator/src/main/java/com/boplus/gen/service/mapper/ColumnInfoMapper.java
+/Users/c5281434/Documents/Project/boplus/boplus-generator/src/main/java/com/boplus/gen/service/impl/GeneratorServiceImpl.java
+/Users/c5281434/Documents/Project/boplus/boplus-generator/src/main/java/com/boplus/gen/rest/GeneratorController.java
+/Users/c5281434/Documents/Project/boplus/boplus-generator/src/main/java/com/boplus/gen/domain/vo/ColumnInfo.java
+/Users/c5281434/Documents/Project/boplus/boplus-generator/src/main/java/com/boplus/gen/utils/GenUtil.java
