@@ -5080,3 +5080,19 @@ Caused by: java.sql.SQLIntegrityConstraintViolationException: Cannot add or upda
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
 	at java.lang.Thread.run(Thread.java:748)
 
+2020-06-06 17:11:03,024 [el-async-3] ERROR [com.boplus.config.thread.AsyncTaskExecutePool] AsyncTaskExecutePool.java:56 - ====null====
+java.lang.NullPointerException: null
+	at com.boplus.modules.monitor.service.impl.VisitsServiceImpl.count(VisitsServiceImpl.java:61)
+	at com.boplus.modules.monitor.service.impl.VisitsServiceImpl$$FastClassBySpringCGLIB$$25c4cfcd.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:746)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:294)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:98)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.AsyncExecutionInterceptor.lambda$invoke$0(AsyncExecutionInterceptor.java:115)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-06-06 17:11:03,026 [el-async-3] ERROR [com.boplus.config.thread.AsyncTaskExecutePool] AsyncTaskExecutePool.java:57 - exception method:count
